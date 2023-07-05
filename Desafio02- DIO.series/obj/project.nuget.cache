@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "fEiyr1q2ekBJc3OA6bky8CIrZGB4lVePSS6oGnHwia6jnBCC05Q3venDwHCMWoKJp9q4Rl3iqYuM48+0ocdxKw==",
+  "success": true,
+  "projectFilePath": "/home/isaias/Área de trabalho/Decola Tech 3rd Edition/DIO.series/DIO.series.csproj",
+  "expectedPackageFiles": [
+    "/home/isaias/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.14/microsoft.aspnetcore.app.ref.6.0.14.nupkg.sha512"
+  ],
+  "logs": []
+}
